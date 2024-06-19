@@ -1,0 +1,232 @@
+    // variables
+
+ 
+        $primary: #233969 !important;
+        $secondary: #A2C63C !important; 
+        $white: #fff;
+   
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    } 
+
+    // import fonts
+
+    @font-face {
+        font-family: "poppins-regular";
+        src: url(../fonts/Poppins-Regular.otf);
+    }
+
+    @font-face {
+        font-family: "poppins-medium";
+        src: url(../fonts/Poppins-Medium.otf);
+    }
+
+    @font-face {
+        font-family: "poppins-bold";
+        src: url(../fonts/Poppins-Bold.otf);
+    }
+
+    @font-face {
+        font-family: "poppins-Light";
+        src: url(../fonts/Poppins-Light.otf);
+    }
+
+
+
+    a {
+        text-decoration: none;
+    }
+
+    // needable  classes 
+
+    .txt-primary {
+        color: $primary;
+    }
+
+    .txt-secondary {
+        color: $secondary;
+    }
+
+    
+
+    .bg-primary {
+        background: $primary;
+        &.box-hover{
+            &:hover{
+                background-color: $secondary;
+                border:1px solid $primary;
+                .text-white{
+                    color: $primary ;
+                }
+            }
+        }
+    }
+
+    .bg-secondary {
+        background: $secondary;
+    }
+
+     
+ 
+
+body { 
+    font-family: 'poppins-light',sans-serif;
+    background-color: grey;
+} 
+
+//   navbar css
+
+.site-header { 
+    background: $white;
+    .navbar-brand {
+        img {
+            @media(max-width:375px) {
+                width: 200px;
+            }
+        }
+    } 
+    .navCustom {
+        .nav-item {
+            margin-left:36px;
+            @media(max-width:600px) {
+                margin-left:0;
+            }
+            .nav-link { 
+                font-size: 16px;
+                color: $primary;
+                padding: 8px 12px;
+                border-radius: 4px;
+                opacity: 0.8;
+                font-family: 'poppins-medium';
+                text-transform: capitalize!important; 
+
+
+                @media(max-width:1024px) {
+                    font-size: 14px;
+                }
+
+                &:hover {
+                    opacity: 1;
+                }
+
+                &.active {
+                    color: $primary;
+                }
+            }
+
+            .dropdown-item {
+                color: $primary;
+                &:hover {
+                    background-color: $secondary ;
+                    color: $primary;
+                } 
+            }
+
+
+        }
+    }
+}
+
+.info-box{
+    background: #3F5585;
+}
+
+
+// site Footer 
+
+footer{
+    
+}
+
+//  Slick slider css
+
+
+.slick-track {
+    padding: 10px 0;
+} 
+
+.slick-next {
+    height: 35px !important;
+    width: 35px !important;
+    background: $primary;
+
+    &:hover {
+        background: $secondary;
+    }
+}
+
+.slick-prev {
+    height: 35px !important;
+    width: 35px !important;
+    background: $primary;
+
+    &:hover {
+        background: $secondary;
+    }
+}
+
+.slick-dots li button {
+    background: lightgrey !important;
+
+    &:before {
+        opacity: 0 !important;
+    }
+}
+
+.slick-dots {
+    li {
+        &.slick-active {
+            button {
+                background: $primary ;
+
+            }
+        }
+    }
+}
+
+.carousel-indicators {
+    bottom: 15px;
+
+    button {
+        height: 10px !important;
+        width: 10px !important;
+        border-radius: 50%;
+        border: 2px solid #fff !important;
+
+    }
+}
+ 
+//  Button classes
+
+.btn-theme {
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: $primary;
+    background: $secondary;
+    padding: 7px 18px;
+    border-radius: 4px;
+    -webkit-transition: all 0.3s ease-in;
+    -webkit-transition: 0.3s ease-in;
+    -webkit-transition: 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    text-decoration: none;
+    font-family: 'poppins-medium'; 
+    &:hover {
+        background: $secondary;
+        border-color: $primary;
+        color: $primary;
+    }
+}
+
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
+ 
