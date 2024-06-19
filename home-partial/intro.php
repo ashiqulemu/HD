@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 position-relative">
+            <div class="col-lg-5 overflow-hidden position-relative">
                 <img src="../images/person.png" class="img-fluid image-control" alt="">
             </div>
         </div>
