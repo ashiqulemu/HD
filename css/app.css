@@ -20,6 +20,15 @@
   font-family: "poppins-Light";
   src: url(../fonts/Poppins-Light.otf);
 }
+.vh-75 {
+  height: 75vh;
+}
+@media (max-width: 992px) {
+  .vh-75 {
+    height: auto;
+  }
+}
+
 a {
   text-decoration: none;
 }
@@ -30,6 +39,14 @@ a {
 
 .txt-secondary {
   color: #A2C63C !important;
+}
+
+.poppins-bold {
+  font-family: "poppins-bold";
+}
+
+.poppins-medium {
+  font-family: "poppins-medium";
 }
 
 .bg-primary {
@@ -96,8 +113,29 @@ body {
   color: #233969 !important;
 }
 
+.image-control {
+  position: relative;
+  bottom: -78px;
+}
+@media (max-width: 992px) {
+  .image-control {
+    position: unset;
+  }
+}
+
 .info-box {
   background: #3F5585;
+}
+
+.link {
+  text-transform: capitalize;
+}
+.link:hover {
+  color: #A2C63C !important;
+}
+
+.follow-us iconify-icon:hover {
+  color: #A2C63C !important;
 }
 
 .slick-track {
@@ -159,10 +197,19 @@ body {
   background: #A2C63C !important;
   border-color: #233969 !important;
   color: #233969 !important;
+  box-shadow: 1px 12px 39px rgba(154, 190, 54, 0.6196078431);
 }
 
 @media (min-width: 1400px) {
   .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     max-width: 1170px;
   }
+}
+::-moz-selection {
+  background-color: #A2C63C;
+  color: #fff;
+}
+::selection {
+  background-color: #A2C63C;
+  color: #fff;
 }/*# sourceMappingURL=app.css.map */

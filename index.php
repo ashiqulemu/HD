@@ -1,9 +1,13 @@
 
 
+ <!-- global Header -->
+<?php include './header.php';?>
 
-<?php include './pages/header.php';?>
-  
-<?php include './pages/footer.php';?>
+<!-- intro sections -->
+<?php include 'home-partial/intro.php';?>
+
+  <!-- global footer -->
+<?php include './footer.php';?>
 
 
 

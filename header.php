@@ -59,7 +59,7 @@
                                     aria-expanded="false">
                                     our service
                                 </a>
-                                <ul class="dropdown-menu">
+                                <ul class="dropdown-menu border-0 shadow">
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">accounting solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">tax solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">other solution </a></li>
@@ -79,7 +79,7 @@
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item bg-primary box-hover rounded-3  ">
                                 <a href="#" class="nav-link text-white text-center fw-bold fs-6 px-4" aria-current="page" href="#">Book Appointment <br>
-                               <span class="fs-5 d-flex gap-1 align-items-center">
+                               <span class="fs-5 d-flex gap-1 justify-content-center align-items-center">
                                <iconify-icon icon="charm:phone"></iconify-icon>  01484 508951</span>
                             </a>
                             </li>
