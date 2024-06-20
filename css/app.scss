@@ -88,7 +88,7 @@
 
 body { 
     font-family: 'poppins-light',sans-serif;
-    background-color: grey;
+    background-color: #fff;
 } 
 
 //   navbar css
@@ -150,6 +150,10 @@ body {
     @media (max-width:992px) {
         position: unset;
     }
+}
+
+.pricing{
+    background-image: linear-gradient(0deg, #FBFCFD 62%, #233969 62%);
 }
 
 .info-box{
@@ -258,6 +262,23 @@ footer{
         color: $primary;
         box-shadow: 1px 12px 39px #9abe369e;
     }
+}
+.btn-theme-outline {
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: $primary; 
+    padding: 7px 18px;
+    border-radius: 4px; 
+    transition: all 0.2s ease-in;
+    text-decoration: none;
+    font-family: 'poppins-medium'; 
+    border: 1px solid $primary;
+    &:hover {
+        border: 1px solid $primary;
+        background-color: $primary;
+        color: $secondary;
+    } 
 }
 
 
