@@ -85,19 +85,19 @@
         </div>
         <div class="row py-5">
             <div class="col-lg-6 d-flex ">
-               <div>
-               <h2 class="txt-primary poppins-bold mb-4">Our Values & Objectives</h2>
-                <ul class="txt-primary ps-4">
-                    <li class="mb-3">We are experienced charted accountants who will serve as your trusted accounting advisor, guiding you through the complexities of taxes and finances.
-                    </li>
-                    <li class="mb-3">
-                        We want to save tax and time as much as possible and make sure you are safe from any future risk and tax investigation, Automate the systems, support you every day.
-                    </li>
-                    <li class="mb-3">
-                        We highly focus on your business growth by leveraging the cloud-based accounting technology for a hassle-free financial future.
-                    </li>
-                </ul>
-               </div>
+                <div>
+                    <h2 class="txt-primary poppins-bold mb-4">Our Values & Objectives</h2>
+                    <ul class="txt-primary ps-4">
+                        <li class="mb-3">We are experienced charted accountants who will serve as your trusted accounting advisor, guiding you through the complexities of taxes and finances.
+                        </li>
+                        <li class="mb-3">
+                            We want to save tax and time as much as possible and make sure you are safe from any future risk and tax investigation, Automate the systems, support you every day.
+                        </li>
+                        <li class="mb-3">
+                            We highly focus on your business growth by leveraging the cloud-based accounting technology for a hassle-free financial future.
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div class="col-lg-6 text-center">
                 <img src="../images/Group Pic.png" class="img-fluid" alt="">
@@ -105,60 +105,60 @@
         </div>
         <div class="row py-3">
             <div class="col-lg-6 d-flex ">
-               <div>
-               <h2 class="txt-primary poppins-bold mb-4">What Makes us Different?</h2>
-                <ul class="txt-primary ps-4">
-                    <li class="mb-3">We guarantee you superfast communication through email, telephone or text message
-                    </li>
-                    <li class="mb-3">
-                    Your privacy is of utmost importance to us, and we always handle our client’s information with the
-utmost care.
+                <div>
+                    <h2 class="txt-primary poppins-bold mb-4">What Makes us Different?</h2>
+                    <ul class="txt-primary ps-4">
+                        <li class="mb-3">We guarantee you superfast communication through email, telephone or text message
+                        </li>
+                        <li class="mb-3">
+                            Your privacy is of utmost importance to us, and we always handle our client’s information with the
+                            utmost care.
 
-                    </li>
-                    <li class="mb-3">
-                    our commitment is to defend our client in any tax investigation.
-                    </li>
-                    <li class="mb-3">
-                    Tax bill will be minimized using all possible legal way
-                    </li>
-                    <li class="mb-3">
-                    We Deliver the service according to up-to-date Tax law.
+                        </li>
+                        <li class="mb-3">
+                            our commitment is to defend our client in any tax investigation.
+                        </li>
+                        <li class="mb-3">
+                            Tax bill will be minimized using all possible legal way
+                        </li>
+                        <li class="mb-3">
+                            We Deliver the service according to up-to-date Tax law.
 
-                    </li>
-                    <li class="mb-3">
-                    We use latest accounting technology
-                    </li>
-                </ul>
-               </div>
+                        </li>
+                        <li class="mb-3">
+                            We use latest accounting technology
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div class="col-lg-6 ">
-               <div class="row g-2">
-                <div class="col-6">
+                <div class="row g-2">
+                    <div class="col-6">
                         <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
                             <div class="poppins-bold display-3 txt-primary mb-0">1.2K</div>
                             <div class="poppins-medium txt-primary fw-bold">Client <br> Served</div>
                         </div>
-                </div>
-                <div class="col-6">
+                    </div>
+                    <div class="col-6">
                         <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
                             <div class="poppins-bold display-3 txt-primary mb-0">7</div>
-                            <div class="poppins-medium txt-primary fw-bold">Years in  Since<br> Established</div>
+                            <div class="poppins-medium txt-primary fw-bold">Years in Since<br> Established</div>
                         </div>
-                </div>
-                <div class="col-6">
+                    </div>
+                    <div class="col-6">
                         <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
                             <div class="poppins-bold display-3 txt-primary mb-0">60+</div>
                             <div class="poppins-medium txt-primary fw-bold">Five Star <br> Review</div>
                         </div>
-                </div>
-                <div class="col-6">
+                    </div>
+                    <div class="col-6">
                         <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
                             <div class="poppins-bold display-3 txt-primary mb-0">2</div>
                             <div class="poppins-medium txt-primary fw-bold">Office <br> Nationwide</div>
                         </div>
+                    </div>
+
                 </div>
-              
-               </div>
             </div>
         </div>
     </div>

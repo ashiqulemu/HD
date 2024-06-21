@@ -13,7 +13,7 @@
                             <h6 class="fw-bold my-3">
                                 Follow us on
                             </h6>
-                            <div class="d-flex gap-2 follow-us">
+                            <div class="d-flex gap-2 follow-us align-items-center justify-content-center justify-content-md-start ">
                                 <a href=""><iconify-icon class="fs-3 text-white" icon="ic:baseline-facebook"></iconify-icon></a>
                                 <a href=""><iconify-icon class="fs-3 text-white" icon="mdi:instagram"></iconify-icon></a>
                                 <a href=""><iconify-icon class="fs-3 text-white" icon="mdi:youtube"></iconify-icon></a>

@@ -9,6 +9,9 @@
 <!-- pricing-packeages sections -->
 <?php include 'home-partial/pricing-packeages.php';?>
 
+<!-- services sections -->
+<?php include 'home-partial/services.php';?>
+
   <!-- global footer -->
 <?php include './footer.php';?>
 
