@@ -18,30 +18,30 @@
     <link rel="icon" href="./images/favi.png">
 
     <!-- css -->
-    <link href="../css/bootstrap-5.2.3.min.css" rel="stylesheet">
-    <link href="../css/app.css" rel="stylesheet">
-    <link rel="stylesheet" href="../css/animate.min.css" />
+    <link href="css/bootstrap-5.2.3.min.css" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.min.css" />
 
     <!-- slick css -->
-    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
-    <link rel="stylesheet" type="text/css" href="./css/slick-theme.css" /> 
+    <link rel="stylesheet" type="text/css" href="css/slick.css" />
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css" /> 
 
     <!--js animation -->
-    <script type="text/javascript" src="./js/wow.min.js"></script>
+    <script type="text/javascript" src="js/wow.min.js"></script>
 
     <!-- iconify icon -->
-    <script src="./js/iconify.min.js"></script>
+    <script src="js/iconify.min.js"></script>
 </head>
 
 <body>
 
     <!-- site header start -->
-    <header class="site-header"> 
+    <header class="site-header shadow-sm mb-3"> 
         <section class="container">
             <nav class="navbar navbar-expand-lg py-3">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="../images/logo.png" width="160px" class="img-fluid" alt="df">
+                        <img src="images/logo.png" width="160px" class="img-fluid" alt="df">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

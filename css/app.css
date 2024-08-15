@@ -113,16 +113,6 @@ body {
   color: #233969 !important;
 }
 
-.image-control {
-  position: relative;
-  bottom: -78px;
-}
-@media (max-width: 992px) {
-  .image-control {
-    position: unset;
-  }
-}
-
 .pricing {
   background-image: linear-gradient(0deg, #FBFCFD 75%, #233969 62%);
 }

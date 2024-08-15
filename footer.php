@@ -102,7 +102,7 @@
 
     </footer>
     <!-- latest js bootstrap-5 -->
-    <script src="./js/bootstrap-5.2.3-bundle.min.js"></script>
+    <script src="js/bootstrap-5.2.3-bundle.min.js"></script>
     </body>
 
     </html>
