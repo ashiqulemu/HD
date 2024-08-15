@@ -1,11 +1,11 @@
     <!-- site footer start -->
-    <footer class="bg-primary py-5">
+    <footer class="bg-primary pt-5 pb-3">
         <div class="container pt-3"> 
                 <div class="row text-center text-md-start">
 
                     <div class="col-lg-4 mb-3">
                         <div class="info-box rounded-3 text-white p-3 mb-3">
-                            <h4 class="mb-3">Subscribe to stay tuned for latest updates. Let’s do it!</h4>
+                            <h5 class="mb-3">Subscribe to stay tuned for latest updates. Let’s do it!</h5>
                             <div class="d-flex gap-1">
                                 <input type="text" placeholder="Enter your email address" class="form-control rounded-3 fs-6"> <button class="btn-theme border-0 rounded-3">submit</button>
                             </div>
@@ -20,12 +20,13 @@
                                 <a href=""><iconify-icon class="fs-3 text-white" icon="mdi:linkedin"></iconify-icon></a>
 
                             </div>
-                            <div class="d-flex align-items-center">
+                            
+                        </div>
+                        <div class="d-flex align-items-center">
                                 <img src="images/Other Logos.png" alt="" >
                                 <img src="images/Ellipse 997.png" class="mx-2" alt="" width="60">
                                 <img src="images/Ellipse 998.png" alt="" width="60">
                             </div>
-                        </div>
                     </div>
                     <div class="col-lg-3 mb-3">
                         <h4 class="fw-bold text-white fs-5 mb-4">Huddersfield Office</h4>
@@ -99,7 +100,7 @@
                     </div> 
                 </div>
 
-                <div class=" py-2 text-light border-top border-bottom text-center">
+                <div class="mt-5 py-2 text-light border-top border-bottom text-center">
                     <small>2024 | HD Accountancy Services LTD |  Registered in England and Wales | Company No-05600401 | VAT No-437899234</small> 
                 </div>
             
