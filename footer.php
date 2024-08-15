@@ -20,6 +20,11 @@
                                 <a href=""><iconify-icon class="fs-3 text-white" icon="mdi:linkedin"></iconify-icon></a>
 
                             </div>
+                            <div class="d-flex align-items-center">
+                                <img src="images/Other Logos.png" alt="" >
+                                <img src="images/Ellipse 997.png" class="mx-2" alt="" width="60">
+                                <img src="images/Ellipse 998.png" alt="" width="60">
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-3 mb-3">
@@ -102,7 +107,7 @@
 
     </footer>
     <!-- latest js bootstrap-5 -->
-    <script src="js/bootstrap-5.2.3-bundle.min.js"></script>
+    <script src="./js/bootstrap-5.2.3-bundle.min.js"></script>
     </body>
 
     </html>
