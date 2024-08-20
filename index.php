@@ -12,6 +12,12 @@
 <!-- services sections -->
 <?php include 'home-partial/services.php';?>
 
+<!-- Client Testimonial -->
+<?php include 'home-partial/testimonial.php';?>
+
+<!-- Latest Insight -->
+<?php include 'home-partial/blog.php';?>
+
   <!-- global footer -->
 <?php include './footer.php';?>
 

@@ -53,6 +53,23 @@ a {
   font-family: "poppins-medium";
 }
 
+.title-with-sub-title {
+  display: inline-block;
+  width: auto;
+  margin: 0 auto;
+  background: #ffffff;
+}
+.title-with-sub-title::before {
+  content: "";
+  height: 3px;
+  position: absolute;
+  top: 84px;
+  background-color: #233969 !important;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
 .bg-primary {
   background: #233969 !important;
 }
@@ -173,19 +190,36 @@ body {
 .slick-next {
   height: 35px !important;
   width: 35px !important;
-  background: #233969 !important;
-}
-.slick-next:hover {
-  background: #A2C63C !important;
+  background: #ffffff !important;
+  border-radius: 50%;
+  box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.1411764706);
 }
 
 .slick-prev {
   height: 35px !important;
   width: 35px !important;
-  background: #233969 !important;
+  background: #ffffff !important;
+  border-radius: 50%;
+  box-shadow: 2px 4px 7px rgba(0, 0, 0, 0.1411764706);
+  z-index: 2;
 }
-.slick-prev:hover {
-  background: #A2C63C !important;
+
+.slick-prev:before,
+.slick-next:before {
+  color: #233969 !important;
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .slick-prev {
+    left: 33% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .slick-next {
+    right: 33% !important;
+  }
 }
 
 .slick-dots li button {
@@ -247,7 +281,12 @@ body {
 }
 
 @media (min-width: 1400px) {
-  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
     max-width: 1170px;
   }
 }

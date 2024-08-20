@@ -60,7 +60,7 @@
 .slick-prev.slick-disabled:before,
 .slick-next.slick-disabled:before
 {
-    opacity: .25;
+    opacity: 1;
 }
 
 .slick-prev:before,
@@ -88,7 +88,7 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: '\276E';
 }
 [dir='rtl'] .slick-prev:before
 {
@@ -106,11 +106,11 @@
 }
 .slick-next:before
 {
-    content: '→';
+    content: '\276F';
 }
 [dir='rtl'] .slick-next:before
 {
-    content: '←';
+    content: '\276E';
 }
 
 /* Dots */

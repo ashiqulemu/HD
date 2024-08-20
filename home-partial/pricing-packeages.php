@@ -129,7 +129,7 @@
                 </div>
             </div>
             <div class="col-lg-6 text-center">
-                <img src="images/Group Pic.png" class="img-fluid" alt="">
+                <img src="images/Group Pic.png" class="img-fluid mt-3" alt="">
             </div>
         </div>
         <div class="row py-3">
