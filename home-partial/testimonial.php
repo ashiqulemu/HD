@@ -11,26 +11,34 @@
             <div class="testimonial">
                 <div class="p-3">
                     <video controls width="100% " class="rounded-4">
-                        <source src="./videos/3145-166335957.mp4" type="video/mp4"></source>
+                        <source src="./videos/3145-166335957.mp4" type="video/mp4">
+                        </source>
                     </video>
                 </div>
                 <div class="p-3">
                     <video controls width="100% " class="rounded-4">
-                        <source src="./videos/3145-166335957.mp4" type="video/mp4"></source>
+                        <source src="./videos/3145-166335957.mp4" type="video/mp4">
+                        </source>
                     </video>
                 </div>
                 <div class="p-3">
                     <video controls width="100% " class="rounded-4">
-                        <source src="./videos/3145-166335957.mp4" type="video/mp4"></source>
+                        <source src="./videos/3145-166335957.mp4" type="video/mp4">
+                        </source>
                     </video>
                 </div>
                 <div class="p-3">
                     <video controls width="100% " class="rounded-4">
-                        <source src="./videos/3145-166335957.mp4" type="video/mp4"></source>
+                        <source src="./videos/3145-166335957.mp4" type="video/mp4">
+                        </source>
                     </video>
                 </div>
-                
-               
+
+
+            </div>
+
+            <div class="col-12 text-center my-3">
+                <a href="#" class="btn btn-theme-outline d-inline w-50 mx-auto rounded-3 fs-6">See More  </a>
             </div>
 
         </div>
