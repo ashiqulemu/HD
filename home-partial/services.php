@@ -56,7 +56,7 @@
     </div>
     <div class="container mt-5">
         <div class="row py-5">
-            <div class="col-lg-3 text-center text-white">
+            <div class="col-lg-3 text-center text-white mb-3">
 
 
                 <div class="mt-3 bg-white d-inline-block border w-auto  border-1 py-4 px-3  rounded-3 fw-bold position-relative">
@@ -71,7 +71,7 @@
                     </small>
                 </div>
             </div>
-            <div class="col-lg-3 text-center text-white">
+            <div class="col-lg-3 text-center text-white mb-3">
 
 
                 <div class="mt-3 bg-white d-inline-block border w-auto  border-1 py-4 px-3  rounded-3 fw-bold position-relative">
@@ -86,7 +86,7 @@
                     </small>
                 </div>
             </div>
-            <div class="col-lg-3 text-center text-white">
+            <div class="col-lg-3 text-center text-white mb-3">
 
 
                 <div class="mt-3 bg-white d-inline-block border w-auto  border-1 py-4 px-3  rounded-3 fw-bold position-relative">
@@ -101,7 +101,7 @@
                     </small>
                 </div>
             </div>
-            <div class="col-lg-3 text-center text-white">
+            <div class="col-lg-3 text-center text-white mb-3">
 
 
                 <div class="mt-3 bg-white d-inline-block border w-auto  border-1 py-4 px-3  rounded-3 fw-bold position-relative">

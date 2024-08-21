@@ -15,6 +15,15 @@
 <!-- Client Testimonial -->
 <?php include 'home-partial/testimonial.php';?>
 
+<!-- Client Reviews -->
+<?php include 'home-partial/reviews.php';?>
+
+<!-- Case Study -->
+<?php include 'home-partial/case-study.php';?>
+
+<!-- Business Goals -->
+<?php include 'home-partial/business-goals.php';?>
+
 <!-- Latest Insight -->
 <?php include 'home-partial/blog.php';?>
 
