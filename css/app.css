@@ -24,6 +24,27 @@
   font-family: "poppins-Light";
   src: url(../fonts/Poppins-Light.otf);
 }
+.timepick + label {
+  border: 1px solid #233969 !important;
+  padding: 3px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.timepick:checked + label {
+  border: 1px solid #233969 !important;
+  background-color: #233969 !important;
+  color: #A2C63C !important;
+}
+
+input[type=checkbox] {
+  accent-color: #233969 !important;
+}
+
+input[type=radio] {
+  accent-color: #233969 !important;
+}
+
 .vh-75 {
   height: 75vh;
 }
@@ -213,6 +234,7 @@ body {
 @media (min-width: 768px) {
   .slick-prev {
     left: 33% !important;
+    top: 54% !important;
   }
 }
 
@@ -236,6 +258,7 @@ body {
 @media (min-width: 768px) {
   .slick-next {
     right: 33% !important;
+    top: 54% !important;
   }
 }
 

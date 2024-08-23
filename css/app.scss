@@ -38,6 +38,26 @@
         src: url(../fonts/Poppins-Light.otf);
     }
 
+    .timepick + label {
+        border: 1px solid $primary;
+        padding: 3px 10px;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+
+    .timepick:checked + label {
+        border: 1px solid $primary;
+        background-color: $primary;
+        color: $secondary;
+    }
+
+     input[type=checkbox]{
+        accent-color: $primary;
+     }
+     input[type=radio]{
+        accent-color: $primary;
+     }
+
 
     .vh-75 {
         height: 75vh;
@@ -271,6 +291,7 @@
     .slick-prev {
         @media(min-width:768px) {
             left: 33% !important;
+            top: 54% !important;
         }
     }
 
@@ -281,9 +302,10 @@
                 top: 100% !important;
             }
         }
+
         .slick-next {
             @media(min-width:768px) {
-                right:3% !important;
+                right: 3% !important;
                 top: 100% !important;
             }
         }
@@ -296,6 +318,7 @@
     .slick-next {
         @media(min-width:768px) {
             right: 33% !important;
+            top: 54% !important;
         }
     }
 
