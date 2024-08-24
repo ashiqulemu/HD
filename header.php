@@ -36,7 +36,7 @@
 <body>
 
     <!-- site header start -->
-    <header class="site-header shadow-sm mb-3"> 
+    <header class="site-header shadow-sm mb-1"> 
         <section class="container">
             <nav class="navbar navbar-expand-lg py-3">
                 <div class="container-fluid">
