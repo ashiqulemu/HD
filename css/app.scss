@@ -425,6 +425,11 @@
     }
 
 
+    .bg-light{
+        background-color: #FBFCFD!important;
+    }
+
+
     .previous-btn {
         cursor: pointer;
         height: 40px;
@@ -442,4 +447,10 @@
                 color: #A2C63C;
             }
         }
+    }
+
+    .form-control:focus{
+        outline:none;
+        box-shadow: none;
+        border-color: $primary;
     }

@@ -346,6 +346,10 @@ body {
   color: #fff;
 }
 
+.bg-light {
+  background-color: #FBFCFD !important;
+}
+
 .previous-btn {
   cursor: pointer;
   height: 40px;
@@ -363,4 +367,10 @@ body {
 }
 .previous-btn:hover iconify-icon {
   color: #A2C63C;
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: #233969 !important;
 }/*# sourceMappingURL=app.css.map */
