@@ -86,10 +86,10 @@
                             <a href="" class="text-white link">about us</a>
                         </li>
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">contact us</a>
+                            <a href="contact.php" class="text-white link">contact us</a>
                         </li>
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">career</a>
+                            <a href="career.php" class="text-white link">career</a>
                         </li>
                         <li class="nav-item mb-2">
                             <a href="" class="text-white link">FAQ</a>
