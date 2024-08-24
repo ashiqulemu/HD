@@ -30,7 +30,7 @@
       <div class="row">
          <div class="col-md-12 pt-5">
             <div class="">
-              <h2 class="poppins-bold text-center" class="txt-primary">Meet our Excellent people </h2>
+              <h2 class="poppins-bold text-center txt-primary">Meet our Excellent people </h2>
             </div> 
          </div>
       </div>
