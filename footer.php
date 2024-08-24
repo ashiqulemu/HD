@@ -115,7 +115,8 @@
     </footer>
     <!-- latest js bootstrap-5 -->
     <script src="./js/bootstrap-5.2.3-bundle.min.js"></script>
-    <script src="./js/jquery-1.12.4.min.js"></script>
+    <script src="./js/jquery-1.12.4.min.js"></script> 
+    <script src="./js/jquery-ui.min.js"></script>
     <script src="./js/slick.min.js"></script>
     <script>
         $('.caseStudy').slick({
@@ -127,8 +128,8 @@
             responsive: [{
                     breakpoint: 1024,
                     settings: {
-                        slidesToShow:1,
-                        slidesToScroll:1,
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
                         infinite: true,
                         // dots: true
                     }
@@ -194,6 +195,8 @@
                 // instead of a settings object
             ]
         });
+
+   
     </script>
 
     </body>

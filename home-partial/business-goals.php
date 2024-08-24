@@ -37,7 +37,8 @@
                                 <div class="row">
                                     <div class="col-lg-6">
 
-                                        <p class="txt-primary poppins-medium d-flex  align-items-center"> <span class=""> Select A Date & Time </span>
+                                        <p class="txt-primary poppins-medium d-flex  align-items-center"> <span class="">
+                                                Select A Date & Time </span>
                                         </p>
                                     </div>
                                     <div class="col-lg-6 text-end">
@@ -48,7 +49,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-7">
-                                        calender
+                                      calender goes here 
                                     </div>
                                     <div class="col-lg-5 d-flex flex-wrap gx-1 justify-content-center my-4">
                                         <div class="mb-2">
@@ -121,14 +122,14 @@
                                         <h6 class="txt-primary poppins-bold">
                                             How would you like to meet?
                                         </h6>
-                                        <div class="d-flex gap-3 align-items-center flex-wrap">
+                                        <div class="d-flex gap-2 align-items-center flex-wrap lh-1">
                                             <label for="video">
                                                 <input type="checkbox" name="meet" id="video">
                                                 Video Conference
                                             </label>
                                             <label for="phone">
                                                 <input type="checkbox" name="meet" id="phone">
-                                               Phone
+                                                Phone
                                             </label>
                                             <label for="face">
                                                 <input type="checkbox" name="meet" id="face">
