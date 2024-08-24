@@ -73,7 +73,7 @@
                                 <a href="#" class="nav-link" >about us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link" >contact</a>
+                                <a href="contact.php" class="nav-link" >contact</a>
                             </li>
                         </ul>
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
