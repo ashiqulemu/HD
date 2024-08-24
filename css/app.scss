@@ -38,25 +38,26 @@
         src: url(../fonts/Poppins-Light.otf);
     }
 
-    .timepick + label {
+    .timepick+label {
         border: 1px solid $primary;
         padding: 3px 10px;
         border-radius: 6px;
         cursor: pointer;
     }
 
-    .timepick:checked + label {
+    .timepick:checked+label {
         border: 1px solid $primary;
         background-color: $primary;
         color: $secondary;
     }
 
-     input[type=checkbox]{
+    input[type=checkbox] {
         accent-color: $primary;
-     }
-     input[type=radio]{
+    }
+
+    input[type=radio] {
         accent-color: $primary;
-     }
+    }
 
 
     .vh-75 {
@@ -424,5 +425,21 @@
     }
 
 
-     
- 
+    .previous-btn {
+        cursor: pointer;
+        height: 40px;
+        width: 40px;
+        border: 2px solid #7a96c29e !important;
+        box-shadow: 1px 2px 5px 0px grey;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.6rem;
+        &:hover{
+            background-color: $primary;
+            iconify-icon{
+                color: #A2C63C;
+            }
+        }
+    }
