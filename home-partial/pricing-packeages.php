@@ -96,7 +96,7 @@
                 </div>
             </div>
         </div>
-        <div class="row py-5">
+        <div class="row py-5" id="about-us">
             <div class="col-lg-6  ">
                 <div class="row">
                     <h2 class="txt-primary poppins-bold mb-3">Our Values </h2>
@@ -183,7 +183,7 @@
                         </div>
                     </div>
                     <div class="col-12 text-center mt-4">
-                       <a class="btn btn-theme-outline d-inline w-50 mx-auto rounded-3 fs-6">Meet our team</a>
+                       <a href="our-team.php" class="btn btn-theme-outline d-inline w-50 mx-auto rounded-3 fs-6">Meet our team</a>
                     </div>
 
                 </div>

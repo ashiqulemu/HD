@@ -70,7 +70,7 @@
                                 <a href="./pricing.php" class="nav-link">pricing</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">about us</a>
+                                <a href="index.php#about-us" class="nav-link">about us</a>
                             </li>
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">contact</a>
