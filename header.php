@@ -24,7 +24,7 @@
 
     <!-- slick css -->
     <link rel="stylesheet" type="text/css" href="css/slick.css" />
-    <link rel="stylesheet" type="text/css" href="css/slick-theme.css" /> 
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css" />
 
     <!--js animation -->
     <script type="text/javascript" src="js/wow.min.js"></script>
@@ -36,7 +36,7 @@
 <body>
 
     <!-- site header start -->
-    <header class="site-header shadow-sm mb-1"> 
+    <header class="site-header shadow-sm mb-1">
         <section class="container">
             <nav class="navbar navbar-expand-lg py-3">
                 <div class="container-fluid">
@@ -53,7 +53,7 @@
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
-                            
+
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">
@@ -63,25 +63,25 @@
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">accounting solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">tax solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">other solution </a></li>
-                                    
+
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link" >pricing</a>
+                                <a href="./pricing.php" class="nav-link">pricing</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link" >about us</a>
+                                <a href="#" class="nav-link">about us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="contact.php" class="nav-link" >contact</a>
+                                <a href="contact.php" class="nav-link">contact</a>
                             </li>
                         </ul>
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item bg-primary box-hover rounded-3  ">
-                                <a href="#" class="nav-link text-white text-center fw-bold fs-6 px-4" aria-current="page" href="#">Book Appointment <br>
-                               <span class="fs-5 d-flex gap-1 justify-content-center align-items-center">
-                               <iconify-icon icon="charm:phone"></iconify-icon>  01484 508951</span>
-                            </a>
+                                <a href="./get-quotation.php" class="nav-link text-white text-center fw-bold fs-6 px-4" aria-current="page">Book Appointment <br>
+                                    <span class="fs-5 d-flex gap-1 justify-content-center align-items-center">
+                                        <iconify-icon icon="charm:phone"></iconify-icon> 01484 508951</span>
+                                </a>
                             </li>
 
                         </ul>

@@ -26,9 +26,11 @@
 }
 .timepick + label {
   border: 1px solid #233969 !important;
-  padding: 3px 10px;
-  border-radius: 6px;
   cursor: pointer;
+  font-family: "poppins-medium";
+  color: #233969 !important;
+  padding: 6px 15px;
+  border-radius: 9px;
 }
 
 .timepick:checked + label {
@@ -373,4 +375,8 @@ body {
   outline: none;
   box-shadow: none;
   border-color: #233969 !important;
+}
+
+.list-theme li {
+  color: #233969;
 }/*# sourceMappingURL=app.css.map */

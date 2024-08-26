@@ -1,10 +1,12 @@
-<section class="py-5 position-relative">
+<!-- global Header -->
+<?php include './header.php'; ?>
+
+ 
+
+<section class="py-5 position-relative bg-light mb-5">
     <div class="container">
         <div class="row text-center">
-            <div class="title-with-sub-title">
-                <h2 class="poppins-bold txt-primary">Let's Discuss Your Business Goals</h2>
-                <h5 class="poppins-medium txt-primary txt-primary">Schedule Your Free Consultation</h5>
-            </div>
+             <h2 class="poppins-bold txt-primary">Booking Now</h2> 
         </div>
         <div class="row mt-5">
             <div class="col-lg-10 mx-auto">
@@ -188,3 +190,7 @@
         </div>
     </div>
 </section>
+
+
+<!-- global footer -->
+<?php include './footer.php'; ?>
