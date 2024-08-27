@@ -379,4 +379,38 @@ body {
 
 .list-theme li {
   color: #233969;
+}
+
+.icon-box {
+  position: relative;
+}
+.icon-box .arcup {
+  position: absolute;
+  left: 69%;
+  width: 63%;
+  top: 8px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  display: none;
+}
+@media (min-width: 992px) {
+  .icon-box .arcup {
+    display: block;
+  }
+}
+.icon-box .arcdown {
+  position: absolute;
+  left: 69%;
+  width: 63%;
+  bottom: 52%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  display: none;
+}
+@media (min-width: 992px) {
+  .icon-box .arcdown {
+    display: block;
+  }
 }/*# sourceMappingURL=app.css.map */

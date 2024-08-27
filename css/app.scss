@@ -461,3 +461,29 @@
             color: #233969;
         }
     }
+
+    .icon-box{
+        position: relative;
+        .arcup{
+            position: absolute;
+            left: 69%;
+            width: 63%;
+            top: 8px;
+            user-select: none;
+            display: none;
+            @media(min-width:992px){
+                display: block;
+            }
+        }
+        .arcdown{
+            position: absolute;
+            left: 69%;
+            width: 63%;
+            bottom: 52%;
+            user-select: none;
+            display: none;
+            @media(min-width:992px){
+                display: block;
+            }
+        }
+    }
