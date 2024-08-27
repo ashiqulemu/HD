@@ -60,7 +60,7 @@
                                     our service
                                 </a>
                                 <ul class="dropdown-menu border-0 shadow">
-                                    <li><a class="dropdown-item text-capitalize fw-bold " href="#">accounting solution </a></li>
+                                    <li><a class="dropdown-item text-capitalize fw-bold " href="pricing.php">accounting solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">tax solution </a></li>
                                     <li><a class="dropdown-item text-capitalize fw-bold " href="#">other solution </a></li>
 

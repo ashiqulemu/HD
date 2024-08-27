@@ -80,10 +80,10 @@
                     <h4 class="fw-bold text-white fs-5 mb-4">Company</h4>
                     <ul class="nav flex-column">
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">Our Services</a>
+                            <a href="services.php" class="text-white link">Our Services</a>
                         </li>
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">about us</a>
+                            <a href="index.php#about-us" class="text-white link">about us</a>
                         </li>
                         <li class="nav-item mb-2">
                             <a href="contact.php" class="text-white link">contact us</a>
@@ -98,10 +98,10 @@
                             <a href="./FAQ.php" class="text-white link">FAQ</a>
                         </li>
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">Privacy policy</a>
+                            <a href="#" class="text-white link">Privacy policy</a>
                         </li>
                         <li class="nav-item mb-2">
-                            <a href="" class="text-white link">Terms & Conditions</a>
+                            <a href="#" class="text-white link">Terms & Conditions</a>
                         </li>
 
 
