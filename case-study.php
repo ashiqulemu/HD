@@ -6,8 +6,8 @@
             <div class="row py-5">
                 <div class="col-md-12 py-5">
                     <div class="text-center pb-2">
-                        <h1 class="text-white fw-bold py-1 text-capitalize">The Road To Success</h1>
-                        <h2 class="text-white text-capitalize">inspring journerys of growth & transformation</h2>
+                        <h1 class="text-white  py-1 text-capitalize poppins-bold">The Road To Success</h1>
+                        <h2 class="text-white text-capitalize poppins-medium">inspring journerys of growth & transformation</h2>
                     </div>
                 </div>
             </div>
