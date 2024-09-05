@@ -413,4 +413,33 @@ body {
   .icon-box .arcdown {
     display: block;
   }
+}
+
+#myTab {
+  border: 1px solid #BCCBE0;
+}
+#myTab .nav-item {
+  font-family: "poppins-medium";
+}
+@media (min-width: 768px) {
+  #myTab .nav-item:nth-child(2) {
+    border-left: 1px solid #BCCBE0;
+    border-right: 1px solid #BCCBE0;
+  }
+}
+#myTab .nav-item:hover {
+  background: #233969 !important;
+}
+#myTab .nav-item:hover .nav-link {
+  color: #fff !important;
+}
+#myTab .nav-link {
+  padding: 16px 30px;
+  border: 0;
+  color: #233969 !important;
+}
+#myTab .nav-link.active {
+  border-radius: 0 !important;
+  background: #233969 !important;
+  color: #fff !important;
 }/*# sourceMappingURL=app.css.map */
