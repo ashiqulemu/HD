@@ -1,7 +1,7 @@
 <section class="pricing py-5">
     <div class="container ">
         <div class="row mt-3">
-            <div class="h1 text-center text-white text-capitalize fw-bold">
+            <div class="h1 text-center text-white text-capitalize poppins-bold mb-1">
                 Choose your suitable pricing package
             </div>
             <div class="h4 text-center text-white text-capitalize fw-bold">
@@ -10,7 +10,7 @@
         </div>
         <div class="row my-5">
             <div class="col-lg-4">
-                <div class="card text-center border-1 p-4 rounded-4 mb-3">
+                <div class="card text-center border-1 p-4 rounded-4 mb-3 card-hover py-5">
                     <h4 class="txt-primary poppins-bold">Sole Trader</h4>
                     <small class="txt-primary my-3">
                         Ideal for self-employed, small business, freelancer and subcontractor with a straight forward income structure
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card text-center border-1 p-4 rounded-4 mb-3">
+                <div class="card text-center border-1 p-4 rounded-4 mb-3 card-hover py-5">
                     <h4 class="txt-primary poppins-bold">Limited Company</h4>
                     <small class="txt-primary my-3">
                         Designed for small business or new business or start up turnover below the VAT threshold looking to tax efficient use of income
@@ -68,7 +68,7 @@
                 </div>
             </div>
             <div class="col-lg-4">
-                <div class="card text-center border-1 p-4 rounded-4 mb-3">
+                <div class="card text-center border-1 p-4 rounded-4 mb-3 card-hover py-5">
                     <h4 class="txt-primary poppins-bold">VAT Registered Business</h4>
                     <small class="txt-primary my-3">
                         Perfectly designed for more established vat registered business looking to manage bookkeeping, vat, accounts, taxes and all other compliance
@@ -106,23 +106,23 @@
                 </div>
                 <div class="row g-2 gx-4 mt-5">
                     <div class="col-lg-6">
-                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center"> 
-                            <div class="poppins-medium txt-primary fw-bold fs-4">Embrace <br> Technology</div>
+                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center mb-2 card-hover"> 
+                            <div class="poppins-medium txt-primary fw-bold fs-5 py-4" style="line-height: 1.2;">Embrace <br> Technology</div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center">
-                        <div class="poppins-medium txt-primary fw-bold fs-4">Together <br> Stronger</div>
+                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center mb-2 card-hover">
+                        <div class="poppins-medium txt-primary fw-bold fs-5 py-4" style="line-height: 1.2;">Together <br> Stronger</div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center">
-                        <div class="poppins-medium txt-primary fw-bold fs-4">Brave to face <br> the truth</div>
+                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center mb-2 card-hover">
+                        <div class="poppins-medium txt-primary fw-bold fs-5 py-4" style="line-height: 1.2;">Brave to face <br> the truth</div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center">
-                        <div class="poppins-medium txt-primary fw-bold fs-4">Humble & <br> Helpful</div>
+                        <div class="border shadow-sm p-3 rounded-4 gap-3 text-center mb-2 card-hover">
+                        <div class="poppins-medium txt-primary fw-bold fs-5 py-4" style="line-height: 1.2;">Humble & <br> Helpful</div>
                         </div>
                     </div>
 
@@ -159,27 +159,27 @@
             <div class="col-lg-6 ">
                 <div class="row g-2">
                     <div class="col-6">
-                        <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
-                            <div class="poppins-bold display-3 txt-primary mb-0">1200</div>
-                            <div class="poppins-medium txt-primary fw-bold">Existing <br> Clients</div>
+                        <div class="border shadow-sm p-3 py-4 rounded-3 d-flex align-items-center justify-content-center gap-3 card-hover">
+                            <div class="poppins-bold display-4 txt-primary mb-0">1200</div>
+                            <h5 class="poppins-medium txt-primary">Existing <br> Clients</h5>
                         </div>
                     </div>
                     <div class="col-6">
-                        <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
-                            <div class="poppins-bold display-3 txt-primary mb-0">7</div>
-                            <div class="poppins-medium txt-primary fw-bold">Years in <br> Operation  </div>
+                        <div class="border shadow-sm p-3 py-4 rounded-3 d-flex align-items-center justify-content-center gap-3 card-hover">
+                            <div class="poppins-bold display-4 txt-primary mb-0">7</div>
+                            <h5 class="poppins-medium txt-primary">Years in <br> Operation  </h5>
                         </div>
                     </div>
                     <div class="col-6">
-                        <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
-                            <div class="poppins-bold display-3 txt-primary mb-0">13</div>
-                            <div class="poppins-medium txt-primary fw-bold">Full time <br> Employee</div>
+                        <div class="border shadow-sm p-3 py-4 rounded-3 d-flex align-items-center justify-content-center gap-3 card-hover">
+                            <div class="poppins-bold display-4 txt-primary mb-0">13</div>
+                            <h5 class="poppins-medium txt-primary">Full time <br> Employee</h5>
                         </div>
                     </div>
                     <div class="col-6">
-                        <div class="border shadow-sm p-3 rounded-3 d-flex align-items-center justify-content-center gap-3">
-                            <div class="poppins-bold display-3 txt-primary mb-0">2</div>
-                            <div class="poppins-medium txt-primary fw-bold">Office <br> Nationwide</div>
+                        <div class="border shadow-sm p-3 py-4 rounded-3 d-flex align-items-center justify-content-center gap-3 card-hover">
+                            <div class="poppins-bold display-4 txt-primary mb-0">2</div>
+                            <h5 class="poppins-medium txt-primary">Office <br> Nationwide</h5>
                         </div>
                     </div>
                     <div class="col-12 text-center mt-4">

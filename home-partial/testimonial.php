@@ -9,26 +9,26 @@
         <div class="row mt-5">
 
             <div class="testimonial">
-                <div class="p-3">
-                    <video controls width="100% " class="rounded-4">
+                <div class="p-4">
+                    <video controls width="100% " class="rounded-4" poster="./images/v3.png"> 
                         <source src="./videos/3145-166335957.mp4" type="video/mp4">
                         </source>
                     </video>
                 </div>
-                <div class="p-3">
-                    <video controls width="100% " class="rounded-4">
+                <div class="p-4">
+                    <video controls width="100% " class="rounded-4" poster="./images/v2.png">
                         <source src="./videos/3145-166335957.mp4" type="video/mp4">
                         </source>
                     </video>
                 </div>
-                <div class="p-3">
-                    <video controls width="100% " class="rounded-4">
+                <div class="p-4">
+                    <video controls width="100% " class="rounded-4" poster="./images/v1.png">
                         <source src="./videos/3145-166335957.mp4" type="video/mp4">
                         </source>
                     </video>
                 </div>
-                <div class="p-3">
-                    <video controls width="100% " class="rounded-4">
+                <div class="p-4">
+                    <video controls width="100% " class="rounded-4" poster="./images/v2.png">
                         <source src="./videos/3145-166335957.mp4" type="video/mp4">
                         </source>
                     </video>

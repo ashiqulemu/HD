@@ -35,6 +35,7 @@
 
     @font-face {
         font-family: "poppins-Light";
+       
         src: url(../fonts/Poppins-Light.otf);
     }
 
@@ -90,6 +91,11 @@
 
     .poppins-medium {
         font-family: "poppins-medium";
+    }
+
+    .poppins-light {
+        font-family: "poppins-Light";
+        font-weight: 100;
     }
 
     .title-with-sub-title {
@@ -211,7 +217,7 @@
             content: '';
             height: 3px;
             position: absolute;
-            top: 50%;
+            top: 47%;
             background-color: $secondary;
             left: 0;
             right: 0;
@@ -531,4 +537,24 @@
                  
             }
         }
+    }
+
+
+     .card-hover{
+        transition: all 0.4s ease-in-out;
+       &:hover{
+        background: #bbe471 !important;
+       }
+    }
+ 
+
+
+    
+    .testimonial .slick-slide {
+        transform: scale(0.8);
+        transition: all 0.4s ease-in-out; 
+    }
+    
+    .testimonial .slick-center{
+        transform: scale(1.02);
     }

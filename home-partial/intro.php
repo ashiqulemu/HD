@@ -3,7 +3,7 @@
         <div class="row  ">
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="py-5">
-                    <h1 class="text-center text-md-start fw-bold  txt-primary poppins-bold">
+                    <h1 class="text-center text-md-start fw-bold  txt-primary poppins-bold mb-4">
                         Grow more, Keep More <br> Save TAX, Save Time
                     </h1>
                     <p class="text-center text-md-start txt-primary ">

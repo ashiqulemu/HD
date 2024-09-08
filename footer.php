@@ -118,7 +118,7 @@
     </footer>
     <!-- latest js bootstrap-5 -->
     <script src="./js/bootstrap-5.2.3-bundle.min.js"></script>
-    <script src="./js/jquery-1.12.4.min.js"></script> 
+    <script src="./js/jquery-1.12.4.min.js"></script>
     <script src="./js/jquery-ui.min.js"></script>
     <script src="./js/slick.min.js"></script>
     <script src="./js/app.js"></script>
@@ -163,10 +163,14 @@
         });
         $('.testimonial').slick({
             // dots: true,
-            infinite: false,
-            speed: 300,
             slidesToShow: 3,
             slidesToScroll: 1,
+            speed: 500,
+            autoplaySpeed: 5000,
+            infinite: true,
+            autoplay: true,
+            centerMode: true,
+            centerPadding: "0",
             responsive: [{
                     breakpoint: 1024,
                     settings: {
@@ -199,8 +203,6 @@
                 // instead of a settings object
             ]
         });
-
-   
     </script>
 
     </body>
